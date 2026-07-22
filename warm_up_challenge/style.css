@@ -1,0 +1,22 @@
+/* Figure out 5 or more DIFFERENT ways to fill in the blank 
+   to produce the desired output */
+
+h1 {
+    font-family: Helvetica;
+    font-size: 300%;
+    color: #ffd63e;
+    text-align: center;
+}
+
+body {
+   border: black solid 5px;
+}
+
+/* Record your solutions here:
+   #1 - Changed the selector for css to h1
+   #2 - created a selector for body
+   #3 - add black color to border
+   #4 - add solid border shape
+   #5 - change border thickness to 
+
+   e.g. - .pika               */
